@@ -1,0 +1,378 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.18f1 (a7d1c678663c) revision 10998214'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.1237; Version 2009; 64bit' Language: 'es' Physical Memory: 7130 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.18f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker13
+-projectPath
+C:/Users/Yaris/Desktop/Desarrollo de entornos de realidad virtual/Game/DERV_2_Unidad_1_Progs
+-logFile
+Logs/AssetImportWorker13.log
+-srvPort
+51240
+Successfully changed project path to: C:/Users/Yaris/Desktop/Desarrollo de entornos de realidad virtual/Game/DERV_2_Unidad_1_Progs
+C:/Users/Yaris/Desktop/Desarrollo de entornos de realidad virtual/Game/DERV_2_Unidad_1_Progs
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 382.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.18f1 (a7d1c678663c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Yaris/Desktop/Desarrollo de entornos de realidad virtual/Game/DERV_2_Unidad_1_Progs/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) R4 Graphics (ID=0x9851)
+    Vendor:   
+    VRAM:     3565 MB
+    Driver:   27.20.15003.1004
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56880
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.010683 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 243.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  7.460 seconds
+Domain Reload Profiling:
+	ReloadAssembly (7461ms)
+		BeginReloadAssembly (634ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (5ms)
+		EndReloadAssembly (2424ms)
+			LoadAssemblies (619ms)
+			RebuildTransferFunctionScriptingTraits (1ms)
+			SetupTypeCache (914ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (161ms)
+			SetupLoadedEditorAssemblies (967ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (19ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (246ms)
+				BeforeProcessingInitializeOnLoad (79ms)
+				ProcessInitializeOnLoadAttributes (428ms)
+				ProcessInitializeOnLoadMethodAttributes (194ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.024722 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  8.376 seconds
+Domain Reload Profiling:
+	ReloadAssembly (8433ms)
+		BeginReloadAssembly (825ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (29ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (77ms)
+		EndReloadAssembly (7205ms)
+			LoadAssemblies (2367ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1895ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (248ms)
+			SetupLoadedEditorAssemblies (2124ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (25ms)
+				SetLoadedEditorAssemblies (3ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (504ms)
+				ProcessInitializeOnLoadAttributes (1529ms)
+				ProcessInitializeOnLoadMethodAttributes (23ms)
+				AfterProcessingInitializeOnLoad (37ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (40ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.71 seconds
+Refreshing native plugins compatible for Editor in 1.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1595 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.4 MB.
+System memory in use after: 111.1 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2173.
+Total: 22.322200 ms (FindLiveObjects: 0.866600 ms CreateObjectMapping: 0.188600 ms MarkObjects: 19.989700 ms  DeleteObjects: 1.271900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/Ejercicios/Scene_Playa.unity
+  artifactKey: Guid(304d841ed1c8a5249bbbf2e5629809a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Ejercicios/Scene_Playa.unity using Guid(304d841ed1c8a5249bbbf2e5629809a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcdac74065c2e8193270198baf026631') in 0.438101 seconds 
+  Import took 0.563960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8322.866267 seconds.
+  path: Assets/Prefabs/Playa_Prefabs/model_2/__Metal_Aluminum_Anodized_14.jpg
+  artifactKey: Guid(3c68470a27ed76347a837d13e1b12f42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Playa_Prefabs/model_2/__Metal_Aluminum_Anodized_14.jpg using Guid(3c68470a27ed76347a837d13e1b12f42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39e07d87bc500c2789738be070c88127') in 15.144972 seconds 
+  Import took 26.758044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.746904 seconds.
+  path: Assets/Prefabs/EjemploEstructura/DERV_2_U1_Estrutura_1.mtl
+  artifactKey: Guid(23e9692698230db44a5386f28430c2d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/EjemploEstructura/DERV_2_U1_Estrutura_1.mtl using Guid(23e9692698230db44a5386f28430c2d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '269efd01c0733da0f0490e24d8af225b') in 0.254497 seconds 
+  Import took 0.313577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.240573 seconds.
+  path: Assets/Scripts/LogicaPersonaje1.cs
+  artifactKey: Guid(0aaeb12b8ec07264d8ea4c27b4b39cce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LogicaPersonaje1.cs using Guid(0aaeb12b8ec07264d8ea4c27b4b39cce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8c7a2c394c018b5beb2313ee112af76') in 0.200535 seconds 
+  Import took 0.268666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.133460 seconds.
+  path: Assets/Scripts/Trig_Meteoros.cs
+  artifactKey: Guid(6264de9d1e60ac24d9fe75745211910c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Trig_Meteoros.cs using Guid(6264de9d1e60ac24d9fe75745211910c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '621208f4bf86ac69603da7236bdadd8c') in 0.011572 seconds 
+  Import took 0.064639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.903886 seconds.
+  path: Assets/Prefabs/Playa_Prefabs/model_2/texture.png
+  artifactKey: Guid(6f943a755fc3b984b80b4562380f5d6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Playa_Prefabs/model_2/texture.png using Guid(6f943a755fc3b984b80b4562380f5d6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a042e581c43da763ce8972f8f5d0638f') in 0.172429 seconds 
+  Import took 0.219115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.174979 seconds.
+  path: Assets/Prefabs/Playa_Prefabs/model_2/__0132_LightGray_2.jpg
+  artifactKey: Guid(0baba31492a5fe04e8606ef45e5bf37b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Playa_Prefabs/model_2/__0132_LightGray_2.jpg using Guid(0baba31492a5fe04e8606ef45e5bf37b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b295c838fd357f105b63d456a4a997a0') in 0.187495 seconds 
+  Import took 0.484747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.878039 seconds.
+  path: Assets/Prefabs/Playa_Prefabs/model_2/__Translucent_Resin_Crush_Gray_2.jpg
+  artifactKey: Guid(7c09b72bcaecd6944b9e97a529610a35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Playa_Prefabs/model_2/__Translucent_Resin_Crush_Gray_2.jpg using Guid(7c09b72bcaecd6944b9e97a529610a35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f571e11ec340756f687d6896ec959e0f') in 0.198547 seconds 
+  Import took 0.492093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.265923 seconds.
+  path: Assets/Scripts/Trig_npcs.cs
+  artifactKey: Guid(ec0474aa69a1fb9409c8d7f6d08c0c79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Trig_npcs.cs using Guid(ec0474aa69a1fb9409c8d7f6d08c0c79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '762e3e4c0a85ad5ebd08b89cec5a0435') in 0.094751 seconds 
+  Import took 0.159581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.100298 seconds.
+  path: Assets/Prefabs/Playa_Prefabs/model_2/__Translucent_Resin_Crush_Gray_1.jpg
+  artifactKey: Guid(235bcf490536861458f2bec4c09131d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Playa_Prefabs/model_2/__Translucent_Resin_Crush_Gray_1.jpg using Guid(235bcf490536861458f2bec4c09131d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92dd14f6a43fae92c0637275785bb546') in 0.056527 seconds 
+  Import took 0.123719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.436291 seconds.
+  path: Assets/Scripts/MovimientoFisicas.cs
+  artifactKey: Guid(696688fde32c3a94f81c32a43a36db16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MovimientoFisicas.cs using Guid(696688fde32c3a94f81c32a43a36db16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '705f64790a78388a5386b154f8f907b6') in 0.462964 seconds 
+  Import took 0.536243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.123123 seconds.
+  path: Assets/Prefabs/Playa_Prefabs/model_2/_0132_LightGray.jpg
+  artifactKey: Guid(25faea02c0a4d35498c68755c22c86a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Playa_Prefabs/model_2/_0132_LightGray.jpg using Guid(25faea02c0a4d35498c68755c22c86a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fd5d49a5ca891a719873dafd70e9f01') in 0.032424 seconds 
+  Import took 0.066281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.149014 seconds.
+  path: Assets/Prefabs/Playa_Prefabs/model/__Wood-cherry_.jpg
+  artifactKey: Guid(463e35e1fe2ad144699283ebbccec12b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Playa_Prefabs/model/__Wood-cherry_.jpg using Guid(463e35e1fe2ad144699283ebbccec12b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f3c3c0230aba76801c68cb7c03bfc9e') in 0.045151 seconds 
+  Import took 0.071291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.081317 seconds.
+  path: Assets/Prefabs/Playa_Prefabs/model/Brick_Pavers_Modular.jpg
+  artifactKey: Guid(f309f0729a8f4d44299cb7acb9173cfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Playa_Prefabs/model/Brick_Pavers_Modular.jpg using Guid(f309f0729a8f4d44299cb7acb9173cfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a31e61cafcea11fbf1e542ac88abe76') in 0.029594 seconds 
+  Import took 0.058389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.956829 seconds.
+  path: Assets/Prefabs/Playa_Prefabs/model_2/__Wood-cherry_.jpg
+  artifactKey: Guid(15de6e16143352440ba9bd0c2911950c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Playa_Prefabs/model_2/__Wood-cherry_.jpg using Guid(15de6e16143352440ba9bd0c2911950c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '390fe19488e0217c065ed05a60774ffd') in 0.060376 seconds 
+  Import took 0.448713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.315714 seconds.
+  path: Assets/Prefabs/Playa_Prefabs/model/__Translucent_Resin_Crush_Gray_1.jpg
+  artifactKey: Guid(d241625ef33649d4fafdb67bfaf05f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Playa_Prefabs/model/__Translucent_Resin_Crush_Gray_1.jpg using Guid(d241625ef33649d4fafdb67bfaf05f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85a2888d783a4af399c67d8c6c043435') in 0.078716 seconds 
+  Import took 0.170952 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.536702 seconds.
+  path: Assets/Scripts/SmoothLookAt.cs
+  artifactKey: Guid(dc71e1d52b4337440a53f0a849b3b07d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SmoothLookAt.cs using Guid(dc71e1d52b4337440a53f0a849b3b07d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9abe6d79aa305dcbcb16ada82920de3e') in 0.035017 seconds 
+  Import took 0.094810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.090543 seconds.
+  path: Assets/Scripts/Raycaster_Code.cs
+  artifactKey: Guid(c3b229310e6922b40b3352885ebe40c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Raycaster_Code.cs using Guid(c3b229310e6922b40b3352885ebe40c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f9560c4d684ef31ac9f07a2c3777275') in 0.175039 seconds 
+  Import took 0.250727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.109192 seconds.
+  path: Assets/Prefabs/Playa_Prefabs/model/Cladding_Stucco_White_1.jpg
+  artifactKey: Guid(fc0419f58f9b8834c854223fc7becfb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Playa_Prefabs/model/Cladding_Stucco_White_1.jpg using Guid(fc0419f58f9b8834c854223fc7becfb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3961b74d016ed54662c4398521a6c53d') in 0.115631 seconds 
+  Import took 0.165913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.120206 seconds.
+  path: Assets/Scripts/SimpleRotate.cs
+  artifactKey: Guid(309e3a375294e8d43908d12dd0caa703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SimpleRotate.cs using Guid(309e3a375294e8d43908d12dd0caa703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3afe6eb9f98b5c0565d5a27498e5ae71') in 0.009762 seconds 
+  Import took 0.038118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.545051 seconds.
+  path: Assets/Scenes/Clase/Escenario_1.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Clase/Escenario_1.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17a0b9d1f00bda14906488607eff4891') in 0.034374 seconds 
+  Import took 0.079237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.275473 seconds.
+  path: Assets/Prefabs/Playa_Prefabs/model_2/__Translucent_Resin_Crush_Gray_4.jpg
+  artifactKey: Guid(95da5ecb6f2861547b53c17614c6d13f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Playa_Prefabs/model_2/__Translucent_Resin_Crush_Gray_4.jpg using Guid(95da5ecb6f2861547b53c17614c6d13f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8cc0e40f44802d0cdd58e1844c08156') in 0.058984 seconds 
+  Import took 0.122672 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.181143 seconds.
+  path: Assets/Scripts/scCampana.cs
+  artifactKey: Guid(7557d3a24c583b249acecca2d61ae347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/scCampana.cs using Guid(7557d3a24c583b249acecca2d61ae347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '604b760335e20ee7c6a7339cc204fc02') in 0.109359 seconds 
+  Import took 0.694697 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.297079 seconds.
+  path: Assets/Prefabs/Playa_Prefabs/model_2
+  artifactKey: Guid(e4321d3768373b142a3778c9f19a351f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Playa_Prefabs/model_2 using Guid(e4321d3768373b142a3778c9f19a351f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f66107d3cc4fd3f25825f686012b22f7') in 0.378826 seconds 
+  Import took 0.595972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.251216 seconds.
+  path: Assets/Scenes/Clase/EjemploZonaRespa.unity
+  artifactKey: Guid(762d9a6dba42cea43b86bae58d292009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Clase/EjemploZonaRespa.unity using Guid(762d9a6dba42cea43b86bae58d292009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c468f990d118e4af136ed9bac6dd3b9') in 0.012305 seconds 
+  Import took 0.069766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.618078 seconds.
+  path: Assets/Scripts/Triggers_respawn.cs
+  artifactKey: Guid(d12ef5b2629b6e14f87527422827c24b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Triggers_respawn.cs using Guid(d12ef5b2629b6e14f87527422827c24b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63673de74a5c3d4fc649502614fda651') in 0.009172 seconds 
+  Import took 0.035039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.061401 seconds.
+  path: Assets/Scripts/Colisiones.cs
+  artifactKey: Guid(790659150115d39498ec5d45fe627c7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Colisiones.cs using Guid(790659150115d39498ec5d45fe627c7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38157e51597d517f3e5170b7469b54ca') in 0.030457 seconds 
+  Import took 0.101500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.950247 seconds.
+  path: Assets/Prefabs/Playa_Prefabs/model
+  artifactKey: Guid(d8d62577464d1bf4c9cb656ef7d524a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Playa_Prefabs/model using Guid(d8d62577464d1bf4c9cb656ef7d524a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9d203c6dd898574c3dc520b3d0da89e') in 0.119260 seconds 
+  Import took 0.207384 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.498637 seconds.
+  path: Assets/Prefabs/Playa_Prefabs/model_2/__Translucent_Resin_Crush_Gray_1_1.jpg
+  artifactKey: Guid(fdfb22263c94c5d4dbcb9c0bf95bb5ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Playa_Prefabs/model_2/__Translucent_Resin_Crush_Gray_1_1.jpg using Guid(fdfb22263c94c5d4dbcb9c0bf95bb5ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b84c59c05e3d66e784ce715acc8014d4') in 0.042319 seconds 
+  Import took 0.057591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.860111 seconds.
+  path: Assets/Prefabs/Playa_Prefabs/model_2/__Translucent_Resin_Crush_Gray_5.jpg
+  artifactKey: Guid(fda133bbd08390c49b6c640b8723c7ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Playa_Prefabs/model_2/__Translucent_Resin_Crush_Gray_5.jpg using Guid(fda133bbd08390c49b6c640b8723c7ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7a78ec7dae0e468f803d8f79173a8d0') in 0.088756 seconds 
+  Import took 0.153719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.136401 seconds.
+  path: Assets/Prefabs/Playa_Prefabs/model/Cladding_Stucco_White.jpg
+  artifactKey: Guid(952d9b8cea4c5ee4584e865a8253df7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Playa_Prefabs/model/Cladding_Stucco_White.jpg using Guid(952d9b8cea4c5ee4584e865a8253df7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f49e90afd9259d163f0a30b87de45b71') in 0.050103 seconds 
+  Import took 0.085832 seconds .
+
